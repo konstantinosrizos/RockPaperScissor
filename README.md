@@ -8,4 +8,4 @@
 + `labels` that tell the user what's happening and for icon
 
 ---
-![](Gif/RockPaperScissor.gif)
+![](Gif/RockPaperScissors.gif)
